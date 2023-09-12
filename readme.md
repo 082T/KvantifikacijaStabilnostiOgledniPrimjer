@@ -1,6 +1,6 @@
 ModelCloner, SetupData - setup modela i podataka  
 KittiLabel.py - klasa za parsiranje kitti ground truth-a  
-ExampleTrainInference - ogledni primjer  
+ExampleTrainInference - primjer treninga  
 
 
 
