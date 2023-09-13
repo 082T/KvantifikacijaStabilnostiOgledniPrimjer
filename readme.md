@@ -13,9 +13,9 @@ This code repositora acompanies the following master thesis:
 
 The repository contains the following files (with description)
 
-- ModelCloner, SetupData - setup modela i podataka  
-- KittiLabel.py - klasa za parsiranje kitti ground truth-a  
-- ExampleTrainInference - primjer treninga  
-
+- ModelCloner, SetupData - setup data  
+- KittiLabel.py - klass for parsing kitti ground truth
+- ExampleTrainInference - training example  
+- Grafovi - used graphs
 
 
